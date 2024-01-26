@@ -1,0 +1,13 @@
+tipo:Regular:12000:800.0
+tipo:Diesel:4500:45.0
+tipo:Premium:4800:10.0
+tipo:Ultra:10000:80.0
+surtidor:John:Regular:0.0:Diesel:0.0:Premium:0.0:Ultra:0.0
+surtidor:Juan:Regular:0.0:Diesel:0.0:Premium:0.0:Ultra:0.0
+surtidor:Jake:Regular:0.0:Diesel:0.0:Premium:0.0:Ultra:0.0
+surtidor:Juan:Regular:0.0:Diesel:0.0:Premium:0.0:Ultra:0.0
+empleado:Julia:0
+empleado:Jake:0
+empleado:John:0
+empleado:Juan:0
+empleado:Julio:0
